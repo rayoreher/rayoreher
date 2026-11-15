@@ -1,6 +1,6 @@
 # Ray Orellana
 
-Software developer working with **C#/.NET, Azure, Angular and JavaScript/TypeScript**. I build and maintain business applications, connect systems through APIs, and investigate problems in existing codebases.
+Software developer working with **C#/.NET, Azure, Angular, TypeScript, Python and Go**. I build and maintain business applications, connect systems through APIs, and investigate problems in existing codebases.
 
 I am available for focused freelance projects:
 
@@ -11,6 +11,10 @@ I am available for focused freelance projects:
 I use AI coding tools for exploration, implementation and documentation, with code review and testing as part of delivery.
 
 I also work on **Vetrina**, a reservation platform for nonprofit campaigns and supporters.
+
+### Recent open-source work
+
+[Python formatter fixes — Lateralus PR #62](https://github.com/bad-antics/lateralus-lang/pull/62), currently in review: prevent changes to quoted data and make repeated formatting stable. Verified in offline OpenSandbox: 20 focused formatter checks pass, including seven regressions that fail on the original code. Implementation and verification used AI assistance.
 
 **Languages:** Italian, English and Spanish.
 
